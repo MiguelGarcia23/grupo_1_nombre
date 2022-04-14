@@ -5,7 +5,7 @@ Proyecto Final DigitalHouse
 Proyecto de E-commerce dirigido a la compra de artículos y accesorios electrónicos, merchandising y contenido exclusivo relacionado a diseños ***Marvel***.
 
 ## Público objetivo
-Dirigido a todas aquellas personas que deseen adquirir un nuevo artículo o accesorio para su disposito electrónico. Particularmente se apunta al público jóven fanáticos de las producciones ***Marvel***
+Dirigido a todas aquellas personas que deseen adquirir un nuevo artículo o accesorio para su dispositivo electrónico. Particularmente se apunta al público jóven fanáticos de las producciones ***Marvel***
 
 ## Páginas referentes del proyecto
 * [Best Buy](https://www.bestbuy.com/)
