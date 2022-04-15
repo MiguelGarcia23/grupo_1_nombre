@@ -8,11 +8,11 @@ Proyecto de E-commerce dirigido a la compra de artículos y accesorios electrón
 Dirigido a todas aquellas personas que deseen adquirir un nuevo artículo o accesorio para su dispositivo electrónico. Particularmente se apunta al público jóven fanáticos de las producciones ***Marvel***
 
 ## Páginas referentes del proyecto
-* [Best Buy](https://www.bestbuy.com/)
-* [dbrand](https://dbrand.com/)
-* [PC Componentes](https://www.pccomponentes.com/)
-* [Razer](https://www.razer.com/)
-* [Walden Cases](https://waldencases.com/)
+* [Best Buy](https://www.bestbuy.com/): Es una de las e-commerce de ventas de artículos y accesorios electrónicos más grande de los Estados Unidos. Nos gustó la funcionalidad del sitio y lo práctico que resulta hacer una compra.
+* [dbrand](https://dbrand.com/): Posee una temática parecida a la de nuestro sitio web y nos gustó el dinamismo de esta página.
+* [PC Componentes](https://www.pccomponentes.com/): Una de las e-commerce de ventas de productos electrónicos más grande de España. Presenta un sitio web sencillo y práctico que le permiten al usuario un mejor desempeño al consumir la página.
+* [Razer](https://www.razer.com/): Tiene una temática similar a la de nuestra página web y presenta ciertas funcionalidades que queremos implementar a nuestra página.
+* [Walden Cases](https://waldencases.com/): De los referentes es la página que usamos más como base, ya que tiene una temática y un diseño muy similar al que queríamos implementar en nuestro sitio web. Además, usamos algunas de sus funcionalidades para darle el dinamismo que buscábamos a nuestra página.
 
 ## Autores
 * **Facundo Francou**
