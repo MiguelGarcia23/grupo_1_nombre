@@ -18,7 +18,7 @@ Dirigido a todas aquellas personas que deseen adquirir un nuevo artículo o acce
 * **Facundo Francou**
 * **Gonzalo Flores**
 * **Manuel Castillo**
-* **Miguel García**: Tengo 18 años, soy de Venezuela, estudiante de Programación Web Full Stack en Digital House. Fanático de los deportes, la programación, los videojuegos y todo el ámbito informático. 
+* **[Miguel García](https://github.com/MiguelGarcia23)**: Tengo 18 años, soy de Venezuela, estudiante de Programación Web Full Stack en Digital House. Fanático de los deportes, la programación, los videojuegos y todo el ámbito informático. 
 
 ## Tablero de Trello y Wireframes
 * [Tablero de Trello](https://trello.com/b/joWs6C0w/grupo1nombre)
